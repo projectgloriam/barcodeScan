@@ -1,4 +1,4 @@
-function scanCode(results){
+function barcodeScan(results){
   //alert('Use RFID scanner (Optional). Serial number will be automatically added to the list.');
 
   // variable to ensure we wait to check the input we are receiving
